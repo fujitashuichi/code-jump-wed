@@ -45,7 +45,7 @@ a {
 
 #header .site-title {
     width: 100px;
-    height: 25px;
+    height: 26px;
     margin: auto 60px auto 5%;
     line-height: 1px;
 }
@@ -181,4 +181,69 @@ section hr {
 #busyness ul li .img-wrapper {
     width: 100%;
     aspect-ratio: 760 / 480;
+}
+
+
+#company {
+    position: relative;
+    display: flex;
+    margin-bottom: 110px;
+}
+
+#company .text-wrapper {
+    width: 60%;
+    padding: 110px 140px 140px 60px;
+    background: #fff;
+}
+
+#company .text-wrapper dl {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+#company .text-wrapper dt {
+    width: 25%;
+}
+
+#company .text-wrapper dd {
+    width: 75%;
+}
+
+#company .img-wrapper {
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+
+#footer {
+    background: #fff;
+    padding-top: 45px;
+}
+
+#footer .flex {
+    justify-content: space-between;
+}
+
+#footer-logo {
+    width: 100px;
+    height: 26px;
+    margin: auto 0;
+    line-height: 1px;
+}
+
+#footer .flex p {
+    width: 210px;
+    font-size: 0.9rem;
+}
+
+#copy-right {
+    padding: 20px 0;
+    font-size: 0.75rem;
 }
