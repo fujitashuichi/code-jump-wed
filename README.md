@@ -5,3 +5,7 @@
 * 画像: https://code-jump.com/download/html/corporate2/img.zip
 * カンプ: https://xd.adobe.com/view/e9b75415-8ec0-4bce-bde4-9508d51dce70-bce4/?hints=off
 * リセットcss: https://unpkg.com/ress/dist/ress.min.css
+
+# 参考文献
+* MDN Web Document: https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/hr
+* Zenn: https://zenn.dev/funteractiveinc/articles/should-we-use-gap (Hidetoshi Ota さん)
